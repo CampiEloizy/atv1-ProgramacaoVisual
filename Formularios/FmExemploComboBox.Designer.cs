@@ -82,6 +82,7 @@
             this.btCalcular.TabIndex = 20;
             this.btCalcular.Text = "CALCULAR";
             this.btCalcular.UseVisualStyleBackColor = false;
+            this.btCalcular.Click += new System.EventHandler(this.btCalcular_Click);
             // 
             // txtValorCompra
             // 
@@ -90,6 +91,8 @@
             this.txtValorCompra.Name = "txtValorCompra";
             this.txtValorCompra.Size = new System.Drawing.Size(308, 26);
             this.txtValorCompra.TabIndex = 19;
+            this.txtValorCompra.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtValorCompra_KeyDown);
+            this.txtValorCompra.KeyUp += new System.Windows.Forms.KeyEventHandler(this.txtValorCompra_KeyUp);
             // 
             // label3
             // 
@@ -128,6 +131,8 @@
             this.txtPercDesconto.Name = "txtPercDesconto";
             this.txtPercDesconto.Size = new System.Drawing.Size(308, 26);
             this.txtPercDesconto.TabIndex = 25;
+            this.txtPercDesconto.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtPercDescontos_KeyDown);
+            this.txtPercDesconto.KeyUp += new System.Windows.Forms.KeyEventHandler(this.txtPercDescontos_KeyUp);
             // 
             // lbPercentual
             // 
@@ -155,6 +160,7 @@
             this.cbTipoCliente.Name = "cbTipoCliente";
             this.cbTipoCliente.Size = new System.Drawing.Size(308, 28);
             this.cbTipoCliente.TabIndex = 26;
+            this.cbTipoCliente.SelectedIndexChanged += new System.EventHandler(this.cbTipoCliente_SelectedIndexChanged);
             // 
             // FmExemploComboBox
             // 

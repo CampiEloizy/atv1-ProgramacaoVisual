@@ -22,8 +22,8 @@ namespace menuOpcoes_LPV.Formularios
             txtPercentual.Clear();
             txtSalarioAtual.Clear();
             txtSalarioAtual.Select();
-            lbResultado.Text = "SALÁRIO REAJUSTADO:";
-            lbResultado.ForeColor = Color.Black;
+            lbsalario.Text = "SALÁRIO REAJUSTADO:";
+            lbsalario.ForeColor = Color.Black;
         }
 
         private void btCalcular_Click(object sender, EventArgs e)
@@ -36,13 +36,8 @@ namespace menuOpcoes_LPV.Formularios
 
             salarioReajustado = salarioAtual + salarioAtual * percentual;
 
-            lbResultado.Text = "O salário Atualizado: " + salarioReajustado.ToString("C2");
-            lbResultado.ForeColor = Color.Blue;
-        }
-
-        private void txtSalarioAtual_TextChanged(object sender, EventArgs e)
-        {
-
+            lbsalario.Text = "O salário Atualizado: " + salarioReajustado.ToString("C2");
+            lbsalario.ForeColor = Color.Blue;
         }
 
         private void txtSalarioAtual_KeyDown(object sender, KeyEventArgs e)
@@ -134,5 +129,6 @@ namespace menuOpcoes_LPV.Formularios
                 txtSalarioAtual.Text = txtSalarioAtual.Text.Remove(txtSalarioAtual.Text.Length - 1);
             }
         }
+
     }
 }

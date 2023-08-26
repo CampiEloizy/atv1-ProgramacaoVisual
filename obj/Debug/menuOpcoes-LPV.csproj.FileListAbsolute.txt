@@ -12,3 +12,17 @@ C:\Users\eloch\OneDrive\Documentos\Eloizy Campi - OneDrive\OneDrive\ADS\LPV\menu
 C:\Users\eloch\OneDrive\Documentos\Eloizy Campi - OneDrive\OneDrive\ADS\LPV\menuOpcoes-LPV\obj\Debug\menuOpcoes-LPV.csproj.CoreCompileInputs.cache
 C:\Users\eloch\OneDrive\Documentos\Eloizy Campi - OneDrive\OneDrive\ADS\LPV\menuOpcoes-LPV\obj\Debug\menuOpcoes-LPV.exe
 C:\Users\eloch\OneDrive\Documentos\Eloizy Campi - OneDrive\OneDrive\ADS\LPV\menuOpcoes-LPV\obj\Debug\menuOpcoes-LPV.pdb
+C:\Users\eloch\OneDrive\Documentos\Eloizy Campi - OneDrive\OneDrive\ADS\LPV\menuOpcoes-LPV\atv1-ProgramacaoVisual\bin\Debug\menuOpcoes-LPV.exe.config
+C:\Users\eloch\OneDrive\Documentos\Eloizy Campi - OneDrive\OneDrive\ADS\LPV\menuOpcoes-LPV\atv1-ProgramacaoVisual\bin\Debug\menuOpcoes-LPV.exe
+C:\Users\eloch\OneDrive\Documentos\Eloizy Campi - OneDrive\OneDrive\ADS\LPV\menuOpcoes-LPV\atv1-ProgramacaoVisual\bin\Debug\menuOpcoes-LPV.pdb
+C:\Users\eloch\OneDrive\Documentos\Eloizy Campi - OneDrive\OneDrive\ADS\LPV\menuOpcoes-LPV\atv1-ProgramacaoVisual\obj\Debug\menuOpcoes-LPV.csproj.AssemblyReference.cache
+C:\Users\eloch\OneDrive\Documentos\Eloizy Campi - OneDrive\OneDrive\ADS\LPV\menuOpcoes-LPV\atv1-ProgramacaoVisual\obj\Debug\menuOpcoes_LPV.FmMenu.resources
+C:\Users\eloch\OneDrive\Documentos\Eloizy Campi - OneDrive\OneDrive\ADS\LPV\menuOpcoes-LPV\atv1-ProgramacaoVisual\obj\Debug\menuOpcoes_LPV.Formularios.FmAlertas.resources
+C:\Users\eloch\OneDrive\Documentos\Eloizy Campi - OneDrive\OneDrive\ADS\LPV\menuOpcoes-LPV\atv1-ProgramacaoVisual\obj\Debug\menuOpcoes_LPV.Formularios.FmExemploAlerta.resources
+C:\Users\eloch\OneDrive\Documentos\Eloizy Campi - OneDrive\OneDrive\ADS\LPV\menuOpcoes-LPV\atv1-ProgramacaoVisual\obj\Debug\menuOpcoes_LPV.Formularios.FmExemploComboBox.resources
+C:\Users\eloch\OneDrive\Documentos\Eloizy Campi - OneDrive\OneDrive\ADS\LPV\menuOpcoes-LPV\atv1-ProgramacaoVisual\obj\Debug\menuOpcoes_LPV.Formularios.FmExemploRotulos.resources
+C:\Users\eloch\OneDrive\Documentos\Eloizy Campi - OneDrive\OneDrive\ADS\LPV\menuOpcoes-LPV\atv1-ProgramacaoVisual\obj\Debug\menuOpcoes_LPV.Properties.Resources.resources
+C:\Users\eloch\OneDrive\Documentos\Eloizy Campi - OneDrive\OneDrive\ADS\LPV\menuOpcoes-LPV\atv1-ProgramacaoVisual\obj\Debug\menuOpcoes-LPV.csproj.GenerateResource.cache
+C:\Users\eloch\OneDrive\Documentos\Eloizy Campi - OneDrive\OneDrive\ADS\LPV\menuOpcoes-LPV\atv1-ProgramacaoVisual\obj\Debug\menuOpcoes-LPV.csproj.CoreCompileInputs.cache
+C:\Users\eloch\OneDrive\Documentos\Eloizy Campi - OneDrive\OneDrive\ADS\LPV\menuOpcoes-LPV\atv1-ProgramacaoVisual\obj\Debug\menuOpcoes-LPV.exe
+C:\Users\eloch\OneDrive\Documentos\Eloizy Campi - OneDrive\OneDrive\ADS\LPV\menuOpcoes-LPV\atv1-ProgramacaoVisual\obj\Debug\menuOpcoes-LPV.pdb

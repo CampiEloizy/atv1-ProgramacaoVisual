@@ -28,25 +28,25 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.lbResultado = new System.Windows.Forms.Label();
+            this.lbsalario = new System.Windows.Forms.Label();
             this.btNovo = new System.Windows.Forms.Button();
             this.btCalcular = new System.Windows.Forms.Button();
             this.txtPercentual = new System.Windows.Forms.TextBox();
             this.txtSalarioAtual = new System.Windows.Forms.TextBox();
-            this.label3 = new System.Windows.Forms.Label();
+            this.lbreajuste = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // lbResultado
+            // lbsalario
             // 
-            this.lbResultado.AutoSize = true;
-            this.lbResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbResultado.Location = new System.Drawing.Point(154, 316);
-            this.lbResultado.Name = "lbResultado";
-            this.lbResultado.Size = new System.Drawing.Size(202, 18);
-            this.lbResultado.TabIndex = 22;
-            this.lbResultado.Text = "SALÁRIO REAJUSTADO: ";
+            this.lbsalario.AutoSize = true;
+            this.lbsalario.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbsalario.Location = new System.Drawing.Point(154, 316);
+            this.lbsalario.Name = "lbsalario";
+            this.lbsalario.Size = new System.Drawing.Size(202, 18);
+            this.lbsalario.TabIndex = 22;
+            this.lbsalario.Text = "SALÁRIO REAJUSTADO: ";
             // 
             // btNovo
             // 
@@ -91,19 +91,18 @@
             this.txtSalarioAtual.Name = "txtSalarioAtual";
             this.txtSalarioAtual.Size = new System.Drawing.Size(237, 26);
             this.txtSalarioAtual.TabIndex = 18;
-            this.txtSalarioAtual.TextChanged += new System.EventHandler(this.txtSalarioAtual_TextChanged);
             this.txtSalarioAtual.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtSalarioAtual_KeyDown);
             this.txtSalarioAtual.KeyUp += new System.Windows.Forms.KeyEventHandler(this.txtSalarioAtual_KeyUp);
             // 
-            // label3
+            // lbreajuste
             // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(133, 170);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(176, 18);
-            this.label3.TabIndex = 17;
-            this.label3.Text = "PERC(%) REAJUSTE:";
+            this.lbreajuste.AutoSize = true;
+            this.lbreajuste.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbreajuste.Location = new System.Drawing.Point(133, 170);
+            this.lbreajuste.Name = "lbreajuste";
+            this.lbreajuste.Size = new System.Drawing.Size(176, 18);
+            this.lbreajuste.TabIndex = 17;
+            this.lbreajuste.Text = "PERC(%) REAJUSTE:";
             // 
             // label2
             // 
@@ -130,12 +129,12 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(517, 428);
-            this.Controls.Add(this.lbResultado);
+            this.Controls.Add(this.lbsalario);
             this.Controls.Add(this.btNovo);
             this.Controls.Add(this.btCalcular);
             this.Controls.Add(this.txtPercentual);
             this.Controls.Add(this.txtSalarioAtual);
-            this.Controls.Add(this.label3);
+            this.Controls.Add(this.lbreajuste);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "FmExemploRotulos";
@@ -147,12 +146,12 @@
         }
 
         #endregion
-        private System.Windows.Forms.Label lbResultado;
+        private System.Windows.Forms.Label lbsalario;
         private System.Windows.Forms.Button btNovo;
         private System.Windows.Forms.Button btCalcular;
         private System.Windows.Forms.TextBox txtPercentual;
         private System.Windows.Forms.TextBox txtSalarioAtual;
-        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label lbreajuste;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
     }
